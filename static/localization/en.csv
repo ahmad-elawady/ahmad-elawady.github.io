@@ -17,7 +17,7 @@ CLEAR_TITLE;Clear all images
 DELETE;Delete
 DELETE_TITLE;Delete selected images
 REPLACE_FILES_PROMPT;Replace existing files?
-DISPLAY_OUTLINES;Outlines:
+DISPLAY_OUTLINES;HI:
 SCALE;Scale:
 SHOW_SPRITES;Animations
 SPRITE_NAME;Sprite name:
